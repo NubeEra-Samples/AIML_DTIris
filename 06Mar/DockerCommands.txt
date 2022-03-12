@@ -1,0 +1,6 @@
+# docker --version
+# docker info
+# docker build -t welcomeapp .
+# docker images
+# docker run -dp 3000:3000 welcomeapp
+# Browse (curl http://localhost:3000 )
